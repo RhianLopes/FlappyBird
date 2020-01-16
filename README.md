@@ -1,20 +1,20 @@
 # 🐤 FlappyBird
 
-## ♟ Contexto
+## ♟ Context
 
-Criado em Janeiro de 2019, o FlappyBird é um repositório que contém a cópia do jogo original sucesso no mundo todo, fiz a cópia enquanto cursava o Curso Completo de Desenvolvimento Android, nele me ensinaram os conceitos base do mundo mobile com a linguagem Java.
+Created in January 2019, FlappyBird is a repository that contains the copy of the original worldwide hit game, I made the copy while taking the Full Android Development Course, where I was taught the basics of the mobile world with the Java language.
 
-## 💡 Ideia
+## 💡 ideia
 
-Criar um app em Android Java que simula-se o jogo original FlappyBird, usando a biblioteca GDX para android java, foi criado o App. Onde pude aprender a consumir a bíblioteca GDX e gerar animações com o toque na tela, por fim, obtendo um jogo quase identico ao jogo original FlappyBird.
+I Created an Android Java app that simulates the original FlappyBird game using the GDX library for android java. Where I learned how to consume the GDX library and generate animations with the touch screen, finally getting a game almost identical to the original game FlappyBird.
 
-## 🔥 Tecnologias
+## 🔥 Technologies
 
 - Java
 - GDX lib
 - Android
 - Android Studio
 
-## 👀 Vizualização
+## 👀 Preview
 
-Para vizualizar o projeto, basta clonar ou fazer o download .zip do GitHub e abrir a aplicação via Android Studio, https://developer.android.com/studio/install?hl=pt-br.
+To view the project, you need clone the repository or do the download .zip on GitHub and open the application by [Android Studio]( https://developer.android.com/studio/install?hl=pt-br).
